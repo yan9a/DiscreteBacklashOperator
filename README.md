@@ -10,7 +10,7 @@ Y. N. Aye and W. T. Ang, “A Discrete Backlash Operator for Identification and 
 
 ### BibTEX
 
-````
+```
 
 @InProceedings{Aye20181103,
   Title                    = {A Discrete Backlash Operator for Identification and Compensation of Hysteresis and Non-linearity for Piezoelectric Micromanipulator},
