@@ -20,7 +20,9 @@ Y. N. Aye and W. T. Ang, “A Discrete Backlash Operator for Identification and 
   Address                  = {Yangon, Myanmar},
   Month                    = {November},
 }
+
 ```
+
 
 ## Implementation in MatLab
 
@@ -30,7 +32,7 @@ Optimization part is in the following directory.
 
 Modeling part is in the following directory.
 
-./MatLabModeling/
+./MatLabCode/DiscreteBacklashModel/
 
 ## Implementation in LabVIEW
 
