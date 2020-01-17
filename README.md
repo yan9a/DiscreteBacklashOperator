@@ -26,10 +26,6 @@ Y. N. Aye and W. T. Ang, “A Discrete Backlash Operator for Identification and 
 
 ## Implementation in MatLab
 
-Optimization part is in the following directory.
-
-./MatLabOptimize/
-
 Modeling part is in the following directory.
 
 ./MatLabCode/DiscreteBacklashModel/
